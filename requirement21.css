@@ -1,0 +1,266 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.firstMain{
+    height: 10vh;
+    width: 100%;
+    color: white;
+    list-style: none;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: fixed;
+}
+.firstDiv{
+    font-size: xx-large;
+    color: gold;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+a:hover{
+    color:orangered;
+}
+.thirdMain{
+    height: 100vh;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    background-image: url(./hairline-motion-with-black-background-good-for-wallpaper-screensaver-free-video.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.graduate{
+    font-size: 70px;
+}
+.fourthMain{
+    height: 200vh;
+    width: 100%;
+    background-color:rgb(227, 204, 92);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.thirdNav{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.thirdDiv{
+    height: 100%;
+    width: 50%;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+hr{
+    width: 50%;
+    height: .5%;
+    background-color: brown;
+}
+.about{
+    font-size: 70px;
+}
+.fourthDiv{
+    height: 100%;
+    width: 50%;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+ul{
+    color:brown;
+    font-size: 70px;
+    font-weight: bolder;
+    border: 5px solid rgb(155, 19, 189);
+    border-radius: 50px;
+    background-color:white;
+}
+ul:hover{
+    color: blue;
+    background-color: green;
+}
+.fourthNav{
+    height: 50%;
+    width: 100%;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.education{
+    font-size: 70px;
+    font-style: italic;
+    color: red;
+
+}
+fieldset{
+    width: 70%;
+    border: 2px none;
+}
+.hr2{
+    height: .5%;
+    width: 30%;
+}
+legend{
+    color: brown;
+    font-size: xx-large;
+}
+.fifthMain{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./skills.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.ninthMain{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.tourism{
+    height: 70%;
+    width: 50%;
+}
+.fifthNav{
+    height: 15%;
+    width: 100%;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.skills{
+    color: blueviolet;
+    font-size: 70px;
+    font-style: italic;
+}
+.skill{
+    color: purple;
+}
+.hr3{
+    height: 4%;
+    width: 20%;
+}
+.sixthNav{
+    height: 85%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.fifthDiv{
+    height: 100%;
+    width: 33.33%;
+    font-size: xx-large;
+    font-weight:bolder;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style: none;
+}
+h1{
+    color: blue;
+}
+.sixthDiv{
+    height: 100%;
+    width: 33.33%;
+    font-size: xx-large;
+    font-weight:bolder;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.seventhDiv{
+    height: 100%;
+    width: 33.33%;
+    font-size: xx-large;
+    font-weight:bolder;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.sisthMain{
+    height: 70vh;
+    width: 100%;
+    background-color: goldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.touch{
+    color:black;
+    font-size: 50px;
+}
+.hr4{
+    height: 1%;
+    width: 25%;
+}
+.p1{
+    width: 50%;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+}
+.seventhNav{
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+footer{
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ol:hover{
+    color:blueviolet;
+}
